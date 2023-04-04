@@ -1,0 +1,5 @@
+﻿  exam11.c
+C:\CWorkspace\CGroupProject\CProject7\exam11.c(8,9): warning C4477: 'printf' : 서식 문자열 '% zX'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\CWorkspace\CGroupProject\CProject7\exam11.c(9,9): warning C4477: 'printf' : 서식 문자열 '% zX'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\CWorkspace\CGroupProject\CProject7\exam11.c(10,9): warning C4477: 'printf' : 서식 문자열 '% zx'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  CProject7.vcxproj -> C:\CWorkspace\CGroupProject\Debug\CProject7.exe
